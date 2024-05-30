@@ -3,7 +3,7 @@ Requerimientos:
   https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/QA_3.1.1_Requisitos_para_el_back-end_de_Urban.grocers.pdf
 
 Documentación API de la aplicación de Urban Grocers:   
-  https://cnt-f89586d0-d9cc-4140-8ed1-3e9b2d70080a.containerhub.tripleten-services.com/docs/
+  https://cnt-2391cd6d-08b2-479b-b288-aa3b5b25e62f.containerhub.tripleten-services.com/docs/
 
 Lista de Comprobación de Pruebas:
 	
